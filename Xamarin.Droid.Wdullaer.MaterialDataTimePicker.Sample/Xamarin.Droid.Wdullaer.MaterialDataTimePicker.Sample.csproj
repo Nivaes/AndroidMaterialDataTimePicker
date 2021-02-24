@@ -120,7 +120,7 @@
       <Version>1.2.0.4</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.ViewPager">
-      <Version>1.0.0.5</Version>
+      <Version>1.0.0.7</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Google.Android.Material">
       <Version>1.0.0.1</Version>
